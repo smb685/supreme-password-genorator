@@ -5,12 +5,6 @@
 
 This project will randomly generates passwords that cna provide security. The HTML was use to structure the project. CSS styled the content on this project and JavaScript was used for the functionality of the password generater. This project has pommpts to make sure that the selctions are valid. The length of 8-128 character, a combination of lowercase/uppercas, and numbers.  
 
-## Table of Contents
-- [Description](#description)
-- [Usage](#usage)
-- [Built With](#Built With)
-- [Website](#Website)
-
 ## Usage:
 Usage instructions: Open the Generator with the provid link in your default browser. Follow the prompts and use the selections. 
 
